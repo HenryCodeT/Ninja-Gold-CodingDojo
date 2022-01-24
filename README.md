@@ -11,7 +11,8 @@
 * ```session["random_casino"] ```
 * ```session["dict_append"]```
 ### dict
-*  ```dict_append = {
+*  ```
+   dict_append = {
         "random_number":session["random"],
         "random_casino":session["random_casino"],
         "stage":request.form["stage"],
