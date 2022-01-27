@@ -1,7 +1,7 @@
 # Ninja-Gold-CodingDojo
 ### python - flask - fundamentals
 ### Install packages
-* ```pipenv install fask```
+* ```pipenv install flask```
 * ```pipenv shell```
 * ```pipenv server.py```
 ### sessions
